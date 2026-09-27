@@ -42,15 +42,6 @@ Contains the R commands used to:
 8. Create the required scatterplot and regression lines.
 9. Save the visualization.
 
-# `FA_Dummy_Regression.Rmd`
-
-Contains the R Markdown version of the analysis and assignment
-documentation.
-
-# `FA_Dummy_Regression.html`
-
-Rendered HTML version of the R Markdown document.
-
 # `diamond_price_by_cut.png`
 
 Required visualization showing diamond price versus carat with
